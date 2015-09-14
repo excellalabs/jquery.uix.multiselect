@@ -1,0 +1,19 @@
+{
+  "name": "jquery-uix-multiselect",
+  "version": "2.0.0",
+  "description": "jQuery UI MultiSelect based on jquery.uix.multiselect",
+  "main": "js/jquery.uix.multiselect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/excellalabs/jquery.uix.multiselect.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/excellalabs/jquery.uix.multiselect/issues"
+  },
+  "homepage": "https://github.com/excellalabs/jquery.uix.multiselect#readme"
+}
